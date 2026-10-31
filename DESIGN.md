@@ -280,6 +280,9 @@ Fotografías con esquinas discretas (photo), paneles de precio más suaves
 (circle). La implementación conserva radios distintos por función; no se
 uniforman todas las piezas. Los marcos recortan su foto con overflow oculto.
 Los íconos son SVG de línea, sin glifos decorativos ni dependencias de fuentes.
+WhatsApp usa el símbolo de marca de Bootstrap Icons, relleno en currentColor
+y sin trazo agregado; en el flotante su caja es de 27 × 27 px sin encogimiento.
+Fuente y licencia MIT: THIRD-PARTY-LICENSES.txt.
 
 ## Components
 
