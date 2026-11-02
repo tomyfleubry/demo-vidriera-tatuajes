@@ -6,7 +6,7 @@ portfolio ni un equipo real de Casa Tinta.
 
 Página: https://tomyfleubry.github.io/demo-vidriera-tatuajes/
 
-Un index.html estático, fotos WebP en assets/ y favicon SVG. Galería filtrable,
+Un index.html estático, fotos WebP en assets/ y favicon SVG. Molde Galería oscura total. Galería filtrable con cinco consultas por estilo,
 consultas individuales por artista, proceso, precios orientativos y FAQ.
 WhatsApp placeholder: 5491100000000. No se procesan reservas ni señas reales.
 

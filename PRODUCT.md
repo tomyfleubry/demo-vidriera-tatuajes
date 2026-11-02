@@ -18,7 +18,7 @@ el celular, y necesitan ver estilos y entender el turno y presupuesto.
 
 ## Positioning
 Tres artistas, diseño a medida, materiales descartables y trabajo por turno
-con seña, explicados sin estética oscura recargada ni promesas vacías.
+con seña, explicados con claridad; la nueva dirección oscura queda fijada por el brief actual.
 
 ## Operating Context
 Reserva individual con Rocco, Vera o Santi. Se conversa la idea, luego diseño
@@ -34,7 +34,7 @@ grande o manga por sesiones. Precio confirmado antes de señar.
 
 ## Brand Commitments
 Casa Tinta, sin cambiar el nombre. Hueso #F4F1EC, tinta #16130E, rojo tinta
-#B3352B y piedra #8A8378 solo secundario. Bebas Neue y Manrope. Voseo,
+#B3352B. Fondo global oscuro; verde #25D366 exclusivo del flotante; símbolos de WhatsApp blancos en flotante y botones oscuros. Bebas Neue y Manrope. Voseo,
 tono directo, limpio y profesional. Flujo de trabajo de Mora, Alba y Aura.
 
 ## Evidence on Hand
